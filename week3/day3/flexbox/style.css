@@ -1,0 +1,46 @@
+body {
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+ }
+ 
+ h1 {
+    text-align: center;
+ }
+ 
+ img {
+    width: 200px;
+ }
+ 
+ div {
+    border: 5px solid black;
+    margin: 50px;
+    display: flex;
+ }
+ 
+ #one {
+    background-color: aqua;
+    justify-content: flex-end;
+ }
+ 
+ #two {
+    background-color: greenyellow;
+    justify-content: center;
+ }
+
+ #three{
+    background-color: orange;
+    justify-content: space-evenly;
+ }
+
+ #four{
+    background-color: purple;
+    justify-content: flex-start;
+ }
+
+ #five{
+    background-color: maroon;
+    flex-direction: column;
+ }

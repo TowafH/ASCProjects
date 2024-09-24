@@ -1,0 +1,46 @@
+h1 {
+    color: brown;
+    background-color: rgb(194,246,151);
+    font-family: Helvetica;
+    text-align: center;
+}
+
+body{
+    font-size: 20px;
+}
+
+ul {
+    color: purple;
+    background-color: rgb(150,150,150);
+    text-decoration: underline;
+}
+
+p{
+    color: orange;
+}
+
+div {
+    background-color: teal;
+    text-align: center;
+}
+
+div p {
+    font-size: 200%;
+    font-family: 'Courier';
+    font-weight: bold;
+    text-decoration: overline underline;
+    color: blue;
+}
+
+#gender{
+    color: white;
+}
+
+#yellow{
+    color: yellow;
+}
+
+.special{
+    color: black;
+}
+

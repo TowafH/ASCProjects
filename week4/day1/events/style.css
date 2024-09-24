@@ -1,0 +1,13 @@
+.box{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+}
+
+.mygrid{
+    width:50%;
+    display: flex;
+    flex-wrap: wrap;
+    
+}

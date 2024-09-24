@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Helvetica';
+    background-color: gray;
+    
+}
+
+div{
+    background-color:  white;
+    padding: 20px;
+}
